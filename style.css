@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+
+#tophead{
+    padding: 1.5cm;
+}
+
+#divtop{
+    background-color: aquamarine;
+    text-align: center;
+    height: 150px;
+}
+
+#divnav{
+    background-color:yellowgreen;
+    text-align: center;
+    height: 40px;
+    padding-top: 25px;
+
+
+}
+
+a{
+    text-decoration: none;
+    margin: 4cm;
+
+}
+
+#divbody{
+    margin-top: 10px;
+    display:flex ;
+    
+}
+
+#edudiv{
+    text-align: center;
+    margin-top: 10px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+td{
+    padding-right: 50px;
+}
+
+#tcenter{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
